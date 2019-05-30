@@ -1,7 +1,7 @@
 # deathOfARobot
 a max/msp patch I made. inspired by poeme electronique (varese ~1958)
 
-[![YTVidlink](img/fakeit.jpg)](https://youtu.be/8GkU9zU_NVM)
+[![YTVidlink](img/fakeit.JPG)](https://youtu.be/8GkU9zU_NVM)
 
 ## analysis:
 
@@ -34,7 +34,7 @@ a max/msp patch I made. inspired by poeme electronique (varese ~1958)
 * used Bulksplash to get a bunch of pictures.
 	* I took a screenshot of the categories I used
 	* Settings: 49 images each time (max), featured (yes) and landscape.  
-  <img src="img/categories.jpg" alt="drawing" width="200"/>
+  <img src="img/categories.JPG" alt="drawing" width="200"/>
 * used a max/msp patch to play the pictures 100ms at a time.
 	* I had to edit the patch (made the matrix larger to increase quality)
 	* It takes a while to load 300+ images into RAM, I had to wait like 3-4 min.
